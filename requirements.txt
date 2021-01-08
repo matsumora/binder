@@ -1,8 +1,3 @@
 numpy
 pandas
 matplotlib
-math
-os
-random
-re
-sys
